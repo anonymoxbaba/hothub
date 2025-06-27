@@ -1,0 +1,32 @@
+<svg width="82" height="82" viewBox="0 0 82 82" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M23.3952 1.72925H58.6035C70.5697 1.72925 80.2702 11.4297 80.2702 23.3959V58.6042C80.2702 70.5704 70.5697 80.2709 58.6035 80.2709H23.3952C11.429 80.2709 1.72852 70.5704 1.72852 58.6042V23.3959C1.72852 11.4297 11.429 1.72925 23.3952 1.72925Z" stroke="url(#paint0_radial)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17.9785 45.0625C17.9785 45.0625 24.7493 58.6042 40.9994 58.6042C57.2494 58.6042 64.0202 45.0625 64.0202 45.0625" stroke="url(#paint1_radial)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.8757 30.1666C32.8757 31.6624 31.6631 32.8749 30.1673 32.8749C28.6715 32.8749 27.459 31.6624 27.459 30.1666C27.459 28.6708 28.6715 27.4583 30.1673 27.4583C31.6631 27.4583 32.8757 28.6708 32.8757 30.1666Z" stroke="url(#paint2_radial)" stroke-width="2"/>
+<path d="M54.5417 30.1666C54.5417 31.6624 53.3291 32.8749 51.8333 32.8749C50.3376 32.8749 49.125 31.6624 49.125 30.1666C49.125 28.6708 50.3376 27.4583 51.8333 27.4583C53.3291 27.4583 54.5417 28.6708 54.5417 30.1666Z" stroke="url(#paint3_radial)" stroke-width="2"/>
+<defs>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-0.261927 1.72924) rotate(52.8715) scale(147.767 207.516)">
+<stop stop-color="#00E6FF"/>
+<stop offset="0.307292" stop-color="#5061DB"/>
+<stop offset="0.628783" stop-color="#6439E1"/>
+<stop offset="1" stop-color="#6439E1"/>
+</radialGradient>
+<radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(16.8117 45.0625) rotate(21.2307) scale(56.0927 55.2519)">
+<stop stop-color="#00E6FF"/>
+<stop offset="0.307292" stop-color="#5061DB"/>
+<stop offset="0.628783" stop-color="#6439E1"/>
+<stop offset="1" stop-color="#6439E1"/>
+</radialGradient>
+<radialGradient id="paint2_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(27.3217 27.4583) rotate(52.8715) scale(10.1909 14.3115)">
+<stop stop-color="#00E6FF"/>
+<stop offset="0.307292" stop-color="#5061DB"/>
+<stop offset="0.628783" stop-color="#6439E1"/>
+<stop offset="1" stop-color="#6439E1"/>
+</radialGradient>
+<radialGradient id="paint3_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(48.9877 27.4583) rotate(52.8715) scale(10.1909 14.3115)">
+<stop stop-color="#00E6FF"/>
+<stop offset="0.307292" stop-color="#5061DB"/>
+<stop offset="0.628783" stop-color="#6439E1"/>
+<stop offset="1" stop-color="#6439E1"/>
+</radialGradient>
+</defs>
+</svg>
